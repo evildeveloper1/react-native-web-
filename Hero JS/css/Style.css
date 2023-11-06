@@ -1,0 +1,24 @@
+h1{
+    font-weight: bold;
+    color:black;
+}
+
+p{
+   font-size: 24px;
+   margin-bottom: 50px;
+   background-color:blueviolet;
+   padding-top: 30px;
+   padding-bottom: 30px;
+}
+
+::selection {
+    color:aqua;
+}
+*{
+  margin: 0%;
+  padding: 0%;
+}
+body{
+    background-color:blueviolet;
+    color:blueviolet ;
+}
